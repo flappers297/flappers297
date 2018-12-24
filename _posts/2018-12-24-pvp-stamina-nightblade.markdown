@@ -108,19 +108,19 @@ categories: pvp stamina nightblade
 - Remember to light attack weave to trigger Assassin's Scourge.
 - If you dislike range only then use Shadow image combined with Surprise Attack to jump in and out of melee.
 
-[ambush]: /img/ambush.png "Ambush"
-[surprise-attack]: /img/surprise-attack.png "Surprise Attack"
-[executioner]: /img/executioner.png "Executioner"
-[shadowy-disguise]: /img/shadowy-disguise.png "Shadowy Disguise"
-[rally]: /img/rally.png "Rally"
-[incapacitating-strike]: /img/incapacitating-strike.png "Incapacitating Strike"
+[ambush]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/ambush.png "Ambush"
+[surprise-attack]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/surprise-attack.png "Surprise Attack"
+[executioner]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/executioner.png "Executioner"
+[shadowy-disguise]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/shadowy-disguise.png "Shadowy Disguise"
+[rally]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/rally.png "Rally"
+[incapacitating-strike]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/incapacitating-strike.png "Incapacitating Strike"
 
-[lethal-arrow]: /img/lethal-arrow.png "Lethal Arrow"
-[poison-injection]: /img/poison-injection.png "Poison Injection"
-[mass-hysteria]: /img/mass-hysteria.png "Mass Hysteria"
-[resolving-vigor]: /img/resolving-vigor.png "Resolving Vigor"
-[relentless-focus]: /img/relentless-focus.png "Relentless Focus"
-[toxic-barrage]: /img/toxic-barrage.jpg "Toxic Barrage"
+[lethal-arrow]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/lethal-arrow.png "Lethal Arrow"
+[poison-injection]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/poison-injection.png "Poison Injection"
+[mass-hysteria]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/mass-hysteria.png "Mass Hysteria"
+[resolving-vigor]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/resolving-vigor.png "Resolving Vigor"
+[relentless-focus]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/relentless-focus.png "Relentless Focus"
+[toxic-barrage]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/toxic-barrage.jpg "Toxic Barrage"
 
 [dubious-camoran-throne]: https://elderscrollsonline.wiki.fextralife.com/Dubious+Camoran+Throne
 [columbine]: https://elderscrollsonline.wiki.fextralife.com/Columbine
