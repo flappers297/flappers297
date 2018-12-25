@@ -26,15 +26,15 @@ categories: pvp stamina nightblade
 
 ### Front Bar
 
-![Ambush][ambush]
-![Surprise Attack][surprise-attack]
-![Executioner][executioner]
-![Shadowy Disguise][shadowy-disguise]
-![Rally][rally]
-![Incapacitating Strike][incapacitating-strike]
+[![Ambush][ambush-img]][ambush]
+[![Surprise Attack][surprise-attack-img]][surprise-attack]
+![Executioner][executioner-img]
+![Shadowy Disguise][shadowy-disguise-img]
+![Rally][rally-img]
+![Incapacitating Strike][incapacitating-strike-img]
 
-- Ambush
-- Surprise Attack
+- [Ambush][ambush]
+- [Surprise Attack][surprise-attack]
 - Executioner
 - Shadowy Disguise
 - Rally
@@ -108,12 +108,16 @@ categories: pvp stamina nightblade
 - Remember to light attack weave to trigger Assassin's Scourge.
 - If you dislike range only then use Shadow image combined with Surprise Attack to jump in and out of melee.
 
-[ambush]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/ambush.png "Ambush"
-[surprise-attack]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/surprise-attack.png "Surprise Attack"
-[executioner]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/executioner.png "Executioner"
-[shadowy-disguise]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/shadowy-disguise.png "Shadowy Disguise"
-[rally]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/rally.png "Rally"
-[incapacitating-strike]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/incapacitating-strike.png "Incapacitating Strike"
+## Gameplay
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9K58XQ13QA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[ambush-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/ambush.png "Ambush"
+[surprise-attack-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/surprise-attack.png "Surprise Attack"
+[executioner-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/executioner.png "Executioner"
+[shadowy-disguise-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/shadowy-disguise.png "Shadowy Disguise"
+[rally-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/rally.png "Rally"
+[incapacitating-strike-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/incapacitating-strike.png "Incapacitating Strike"
 
 [lethal-arrow]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/lethal-arrow.png "Lethal Arrow"
 [poison-injection]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/poison-injection.png "Poison Injection"
@@ -121,6 +125,9 @@ categories: pvp stamina nightblade
 [resolving-vigor]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/resolving-vigor.png "Resolving Vigor"
 [relentless-focus]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/relentless-focus.png "Relentless Focus"
 [toxic-barrage]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/toxic-barrage.jpg "Toxic Barrage"
+
+[ambush]: https://elderscrollsonline.wiki.fextralife.com/Ambush
+[surprise-attack]: https://elderscrollsonline.wiki.fextralife.com/Surprise+Attack
 
 [dubious-camoran-throne]: https://elderscrollsonline.wiki.fextralife.com/Dubious+Camoran+Throne
 [columbine]: https://elderscrollsonline.wiki.fextralife.com/Columbine
