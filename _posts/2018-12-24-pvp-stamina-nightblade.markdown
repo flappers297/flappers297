@@ -28,38 +28,38 @@ categories: pvp stamina nightblade
 
 [![Ambush][ambush-img]][ambush]
 [![Surprise Attack][surprise-attack-img]][surprise-attack]
-![Executioner][executioner-img]
-![Shadowy Disguise][shadowy-disguise-img]
-![Rally][rally-img]
-![Incapacitating Strike][incapacitating-strike-img]
+[![Executioner][executioner-img]][executioner]
+[![Shadowy Disguise][shadowy-disguise-img]][shadowy-disguise]
+[![Rally][rally-img]][rally]
+[![Incapacitating Strike][incapacitating-strike-img]][incapacitating-strike]
 
 - [Ambush][ambush]
 - [Surprise Attack][surprise-attack]
-- Executioner
-- Shadowy Disguise
-- Rally
-- Incapacitating Strike
+- [Executioner][executioner]
+- [Shadowy Disguise][shadowy-disguise]
+- [Rally][rally]
+- [Incapacitating Strike][incapacitating-strike]
 
 ### Back Bar
 
-![Lethal Arrow][lethal-arrow]
-![Poison Injection][poison-injection]
-![Mass Hysteria][mass-hysteria]
-![Resolving Vigor][resolving-vigor]
-![Relentless Focus][relentless-focus]
-![Toxic Barrage][toxic-barrage]
+[![Lethal Arrow][lethal-arrow-img]][lethal-arrow]
+[![Poison Injection][poison-injection-img]][poison-injection]
+[![Mass Hysteria][mass-hysteria-img]][mass-hysteria]
+[![Resolving Vigor][resolving-vigor-img]][resolving-vigor]
+[![Relentless Focus][relentless-focus-img]][relentless-focus]
+[![Toxic Barrage][toxic-barrage-img]][toxic-barrage]
 
-- Lethal Arrow
-- Poison Injection
-- Mass Hysteria
-- Resolving Vigor
-- Relentless Focus
-- Toxic Barrage
+- [Lethal Arrow][lethal-arrow]
+- [Poison Injection][poison-injection]
+- [Mass Hysteria][mass-hysteria]
+- [Resolving Vigor][resolving-vigor]
+- [Relentless Focus][relentless-focus]
+- [Toxic Barrage][toxic-barrage]
 
 ## Gear Explained
 
-- [Dubious Camoran Throne][dubious-camoran-throne] enables Bone Pirate's Tatters fifth bonus: 2000 Stamina and 150 Stamina Recovery.
-- Kra'gh and Molag Kena give us extra penetration and weapon damage for Battlegrounds.
+- [Dubious Camoran Throne][dubious-camoran-throne] enables [Bone Pirate's Tatters][bone-pirates-tatters] fifth bonus: 2000 Stamina and 150 Stamina Recovery.
+- [Kra'gh][kragh] and [Molag Kena][molag-kena] give us extra penetration and weapon damage for Battlegrounds.
 - Weapon traits and Jewellery glyphs also give us extra penetration and weapon damage for Battlegrounds.  
 - Impenetrable trait on armour mitigates against being a glass cannon.
 - Consider using Stamina glyphs on smaller armour pieces for additional damage.
@@ -77,34 +77,34 @@ categories: pvp stamina nightblade
 
 ## Skills Explained
 
-- Keep Rally and Relentless Focus up all the time for buffs.
-- Use Resolving Vigor followed by Shadowy Disguise when low on health.
-- Use Rally burst heal if still low on health after going into stealth.
-- Use Mass Hysteria followed by dodge roll (on bow still) and sprint when out numbered (aim to break line of sight).
-- You can swap Mass Hysteria for:
+- Keep [Rally][rally] and [Relentless Focus][relentless-focus] up all the time for buffs.
+- Use [Resolving Vigor][resolving-vigor] followed by [Shadowy Disguise][shadowy-disguise] when low on health.
+- Use [Rally][rally] burst heal if still low on health after going into stealth.
+- Use [Mass Hysteria][mass-hysteria] followed by dodge roll (on bow for speed buff) and sprint when out numbered (aim to break line of sight).
+- You can swap [Mass Hysteria][mass-hysteria] for:
   - Razor Caltrops - Offensive CC
   - Shadow Image - Defensive mobility
   - Shuffle - Defensive mobility
-- Ranged / melee opener (weave light attacks):
-  - Shadowy Disguise
-  - Lethal Arrow
-  - Poison Arrow
-  - Ambush
-  - Surprise Attack
-  - Executioner
+- Ranged / melee opener (weave light attacks except for first two skills):
+  - [Shadowy Disguise][shadowy-disguise]
+  - [Lethal Arrow][lethal-arrow]
+  - [Poison Injection][poison-injection]
+  - [Ambush][ambush]
+  - [Surprise Attack][surprise-attack]
+  - [Executioner][executioner]
 - The range / melee opener should be enough for most targets.
-- If not then use Incapacitating Strike to stun before executing.
-- If ultimate not ready then stealth before applying surprise attack to stun.
-- Then double tap the executioner (if still not dead).
+- If not then use [Incapacitating Strike][incapacitating-strike] to stun before executing.
+- If ultimate not ready then use [Shadowy Disguise][shadowy-disguise] before applying [Surprise Attack][surprise-attack] to stun.
+- Then double tap [Executioner][executioner] (if still not dead).
 - Ranged opener (when targets are good at grouping):
-  - Shadowy disguise
-  - Lethal Arrow
+  - [Shadowy Disguise][shadowy-disguise]
+  - [Lethal Arrow][lethal-arrow]
   - Razor Caltrops
-  - Poison Arrow
-  - Poison Arrow
-  - Poison Arrow
-  - Assassin's Scourge
-  - Toxic Barrage
+  - [Poison Injection][poison-injection]
+  - [Poison Injection][poison-injection]
+  - [Poison Injection][poison-injection]
+  - [Relentless Focus][relentless-focus]
+  - [Toxic Barrage][toxic-barrage]
 - Remember to light attack weave to trigger Assassin's Scourge.
 - If you dislike range only then use Shadow image combined with Surprise Attack to jump in and out of melee.
 
@@ -119,15 +119,26 @@ categories: pvp stamina nightblade
 [rally-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/rally.png "Rally"
 [incapacitating-strike-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/incapacitating-strike.png "Incapacitating Strike"
 
-[lethal-arrow]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/lethal-arrow.png "Lethal Arrow"
-[poison-injection]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/poison-injection.png "Poison Injection"
-[mass-hysteria]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/mass-hysteria.png "Mass Hysteria"
-[resolving-vigor]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/resolving-vigor.png "Resolving Vigor"
-[relentless-focus]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/relentless-focus.png "Relentless Focus"
-[toxic-barrage]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/toxic-barrage.jpg "Toxic Barrage"
+[lethal-arrow-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/lethal-arrow.png "Lethal Arrow"
+[poison-injection-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/poison-injection.png "Poison Injection"
+[mass-hysteria-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/mass-hysteria.png "Mass Hysteria"
+[resolving-vigor-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/resolving-vigor.png "Resolving Vigor"
+[relentless-focus-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/relentless-focus.png "Relentless Focus"
+[toxic-barrage-img]: https://media.githubusercontent.com/media/flappers297/flappers297.github.io/master/img/toxic-barrage.jpg "Toxic Barrage"
 
 [ambush]: https://elderscrollsonline.wiki.fextralife.com/Ambush
 [surprise-attack]: https://elderscrollsonline.wiki.fextralife.com/Surprise+Attack
+[executioner]: https://elderscrollsonline.wiki.fextralife.com/Executioner+(Two-Handed)
+[shadowy-disguise]: https://elderscrollsonline.wiki.fextralife.com/Shadowy+Disguise
+[rally]: https://elderscrollsonline.wiki.fextralife.com/Rally
+[incapacitating-strike]: https://elderscrollsonline.wiki.fextralife.com/Incapacitating+Strike
+
+[lethal-arrow]: https://elderscrollsonline.wiki.fextralife.com/Lethal+Arrow
+[poison-injection]: https://elderscrollsonline.wiki.fextralife.com/Poison+Injection
+[mass-hysteria]: https://elderscrollsonline.wiki.fextralife.com/Mass+Hysteria
+[resolving-vigor]: https://elderscrollsonline.wiki.fextralife.com/Resolving+Vigor
+[relentless-focus]: https://elderscrollsonline.wiki.fextralife.com/Relentless+Focus
+[toxic-barrage]: https://elderscrollsonline.wiki.fextralife.com/Toxic+Barrage
 
 [dubious-camoran-throne]: https://elderscrollsonline.wiki.fextralife.com/Dubious+Camoran+Throne
 [columbine]: https://elderscrollsonline.wiki.fextralife.com/Columbine
